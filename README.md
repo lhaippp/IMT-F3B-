@@ -9,7 +9,7 @@
 
 因为我自己很喜欢上网课所以在这里推荐学习：[![NPM version](https://img.shields.io/badge/cousera-Statistic%20with%20R-blue.svg)](https://www.coursera.org/specializations/statistics)，这门网课完美覆盖101E的所有重点，并且每一个章节后面都会有一个大约两小时的用`R`语言练习，既锻炼统计学能力，又为之后的niveau铺下基础。
 
-`Niveau 2 - 数据挖掘`: 重要而且有用的一门课，这堂课会将机器学习整个流程交给我们，比如：
+[![NPM version](https://img.shields.io/badge/Niveau--2-%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98-red.svg)]: 重要而且有用的一门课，这堂课会将机器学习整个流程交给我们，比如：
 * 输入阶段的数据可视化，数据清洗，特征工程，训练集验证集划分，
 * 建模阶段的模型原理（监督方法：线性方法，SVM，决策树，随机森林，神经网络；非监督方法：K-means，聚类，PCA）
 * 输出阶段的评价方法（Accuracy, Precision, Recall, F1-score），特征重要性，模型是否过拟合
