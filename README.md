@@ -33,7 +33,7 @@
 
 相关资料: [Niveau-4](https://drive.google.com/drive/folders/1t6C7JNm7kYCtt32WVwNzLvujkKIexjEg?usp=sharing)
 
-[![NPM version](https://img.shields.io/badge/Niveau--5-%E5%86%B3%E7%AD%96%E8%AE%BA-red.svg)]：比较有趣的一门课，特别是这门课的前半部分。前半部分要求我们读一篇论文，是关于港口的Node分布的最优解问题，然后先从线性规划的角度来解决这个问题，之后再用遗传算法来解决。后半段是关于风险分析的问题。这门课分为一个遗传算法的rapport和一个小projet的soutenance，总体来说比较轻松。另外有一点我想说的是，国内的人工智能其实感觉已经开始涉及最优解这个问题，从以前的传统的深度学习项目比如人脸识别，金融分析，自然语言处理，到现在很多大公司都已经开始做智慧仓库，智慧驾驶，这一些需要决策论的问题，所以我比较推荐大家选择这门课。遗传算法的jupyter可以在这里找到：[遗传算法](**GA-Hub-Distribution.ipynb**)
+[![NPM version](https://img.shields.io/badge/Niveau--5-%E5%86%B3%E7%AD%96%E8%AE%BA-red.svg)]：比较有趣的一门课，特别是这门课的前半部分。前半部分要求我们读一篇论文，是关于港口的Node分布的最优解问题，然后先从线性规划的角度来解决这个问题，之后再用遗传算法来解决。后半段是关于风险分析的问题。这门课分为一个遗传算法的rapport和一个小projet的soutenance，总体来说比较轻松。另外有一点我想说的是，国内的人工智能其实感觉已经开始涉及最优解这个问题，从以前的传统的深度学习项目比如人脸识别，金融分析，自然语言处理，到现在很多大公司都已经开始做智慧仓库，智慧驾驶，这一些需要决策论的问题，所以我比较推荐大家选择这门课。遗传算法的jupyter可以在这里找到：[遗传算法](GA-Hub-Distribution.ipynb)
 
 相关资料： [Niveau-5](https://drive.google.com/drive/folders/1shh2g__ZFqqgOS8UBqW8o4MSxm5fnOdx?usp=sharing)
 
