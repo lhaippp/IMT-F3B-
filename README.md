@@ -38,7 +38,7 @@
 相关资料： [Niveau-5](https://drive.google.com/drive/folders/1shh2g__ZFqqgOS8UBqW8o4MSxm5fnOdx?usp=sharing)
 
 [![NPM version](https://img.shields.io/badge/ProjetISA-SleepQuality-blue.svg)]：我的学期大projet，总结两个点：
-1. 能跟认识的靠谱人组队最好，千万作死。
+1. 能跟认识的靠谱人组队最好，千万别作死。
 2. 最好别选Sorin MOGA当导师，吗的水上天。
 
 睡眠质量这个课题其实还挺不错的，前提是有人帮你入门，这个课题设计医学和深度学习，所以如果能好好做应该是不错的。如果大家对这个课题感兴趣，推荐大家看看我的github，我托管了所有的代码和文档，希望能够帮助大家：[睡眠质量检测](https://github.com/lhaippp/Measuring-Sleep-Quality)
